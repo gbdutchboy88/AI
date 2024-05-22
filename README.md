@@ -52,7 +52,7 @@ poe 是由美版知乎 Quora 构建的AI 产品，提供实时在线与多个AI 
 
 目前的情况是ChatGPT、Sage、Dragonfly、Claude 机器人可以免费、无限制、实时使用。只需要一个邮箱即可注册。可以随时切换AI而对话不中断，并且对话记录是在线保存并且同步到客户端的。
 
-[想体验ChatGPTPLSU、Notion AI、Claude AI、Poe AI 的PLUS版本一张卡就可以解决4大AI工具，点击获取虚拟信用卡](https://gpt.fomepay.com/#/pages/login/index?d=Q3DD80)
+[想体验ChatGPTPLUS、Notion AI、Claude AI、Poe AI 的PLUS版本一张卡就可以解决4大AI工具，点击获取虚拟信用卡](https://gpt.fomepay.com/#/pages/login/index?d=Q3DD80)
 
 ## ChatGPT的发展趋势包括以下几个方面：
 
